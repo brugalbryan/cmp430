@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="todo">TODO</string>
+    <string name="sunny">Sunny</string>
+    <string name="f">°F</string>
+    <string name="_80">80</string>
+    <string name="Bronx">Bronx</string>
+</resources>
